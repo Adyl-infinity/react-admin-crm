@@ -1,3 +1,9 @@
 .home{
     flex: 4;
+    background-color: #F3F6F5;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
 }
